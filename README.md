@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kunal270
 - 👀 I’m interested in web devlopment.
-- 🌱 I’m currently learning front-end web dev.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning front-end web devlopment.
+- 💞️ I’m looking to collaborate on with the web developers.
 - 📫 How to reach me ...
 
 <!---
